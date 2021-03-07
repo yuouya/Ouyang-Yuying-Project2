@@ -1,0 +1,49 @@
+@charset "utf-8";
+body{
+	margin:0;
+	padding:0;
+}
+img{
+	position: absolute;
+}
+.logo{
+	top:18px;
+	left:1091px;
+	opacity: 0;
+	transition: opacity 1s;
+}
+.logo:hover{
+	opacity:1;
+}
+.InuYasha{
+	top:259px;
+	left:833px;
+	opacity:0;
+}
+.InuYasha:hover{
+	opacity:1;
+}
+.Kagome{
+	top:49px;
+	left:589px;
+	opacity:0;
+}
+.Kagome:hover{
+	opacity:1;
+}
+.mile{
+	top:109px;
+	left:199px;
+	opacity:0;
+}
+.mile:hover{
+	opacity:1;
+}
+.qibao{
+	top:282px;
+	left:430px;
+	opacity:0;
+}
+.qibao:hover{
+	opacity:1;
+}

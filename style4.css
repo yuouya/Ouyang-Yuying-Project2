@@ -1,0 +1,18 @@
+@charset "utf-8";
+body{
+	margin:0;
+	padding:0;
+}
+img{
+	position: absolute;
+}
+.ati{
+	position: absolute;
+}
+.mua{
+	top:288.42px;
+	left:936.76px;
+	opacity:0;
+}
+.mua:hover{
+	opacity:1;

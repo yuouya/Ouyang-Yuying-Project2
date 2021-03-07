@@ -1,0 +1,26 @@
+@charset "utf-8";
+body{
+	margin:0;
+	padding:0;
+}
+img{
+	position: absolute;
+}
+.eyes{
+	top:255px;
+	left:320px;
+}
+.name{
+	left:783.9px;
+	top:371.81px;
+}
+.hello{
+	opacity: 0;
+	transition:opacity 1s;
+}
+.hello:hover{
+	opacity:1;
+}
+.what{
+	position: absolute;
+}
